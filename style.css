@@ -28,6 +28,7 @@ header {
   letter-spacing: 0.15em;
   color: #fff;
   text-shadow: 1px 1px 0px #000;
+  font-weight: bold;
 }
 nav {
   text-align: center;
